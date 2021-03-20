@@ -2,7 +2,7 @@
 <h1 align="center">
     <a">🔗 New-products || {React - Node} - { Starcoffee}</a>
 </h1>
-<p align="center">🚀 </p> 
+<p align="center">🚀 Two session to introduce new products. </p> 
 
 > Project status: Completed :heavy_check_mark:  
 > <img src="https://img.shields.io/badge/-HTML5%20and%20CSS-critical"/> 
