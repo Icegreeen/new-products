@@ -14,4 +14,4 @@
 
 # Pendencies.
 
-I need to make all sections responsiv
+I need to make all sections responsive.
